@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8677693
+  lightness: 0.2522901
+  brandStrength: 0.6256713
+  brandColors:
+    - '#7E99D0'
+    - '#FFE4C6'
+    - '#7D524A'
+    - '#131112'
+    - '#9E7971'
+  rhythmicContrast: 0.3398843
+typography_spectrum: 0.7298604
+name: Caleb Vanwinkle
