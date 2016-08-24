@@ -1,14 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 0.8677693
-  lightness: 0.2522901
   brandStrength: 0.6256713
+  rhythmicContrast: 0.3398843
   brandColors:
     - '#7E99D0'
     - '#FFE4C6'
     - '#7D524A'
     - '#131112'
     - '#9E7971'
-  rhythmicContrast: 0.3398843
+  lightness: 0.2522901
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 0.7298604
 name: Caleb Vanwinkle
